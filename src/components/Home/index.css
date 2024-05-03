@@ -1,0 +1,44 @@
+.meeting-heading {
+  color: #334155;
+  font-size: 35px;
+}
+
+.meeting-container {
+  min-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.meeting-description {
+  color: #475569;
+  margin-top: 8px;
+}
+
+.register-btn {
+  background-color: #2563eb;
+  height: 33px;
+  width: 80px;
+  border: none;
+  color: #ffffff;
+  border-radius: 3px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.meeting-img {
+  width: 550px;
+  margin-top: 30px;
+}
+
+.register-name {
+  color: #2563eb;
+  margin-bottom: 3px;
+}
+
+.register-desc {
+  color: #334155;
+  font-weight: bold;
+  font-size: 20px;
+}
